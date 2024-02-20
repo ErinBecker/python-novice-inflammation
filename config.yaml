@@ -86,7 +86,10 @@ profiles:
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
 
+sandpaper: carpentries/sandpaper@enable-search
+varnish: carpentries/varnish@use-search-2023
+url: ‘https://ErinBecker.github.io/python-novice-inflammation’
 
-url: 'https://swcarpentry.github.io/python-novice-inflammation'
+# url: 'https://swcarpentry.github.io/python-novice-inflammation'
 analytics: carpentries
 lang: en
